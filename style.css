@@ -1,0 +1,45 @@
+html {
+    text-align: center;
+
+}
+
+
+
+nav {
+    font-size: 16pt;
+    text-align: center;
+    margin: 0px;
+    background-color: hotpink;
+    text-decoration: none;
+
+}
+
+ 
+h1 {
+    text-align: center;
+    background-color: fuchsia;
+    margin: 0px;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+    margin-top: 7%;
+
+}
+
+.simple {
+    background-color: yellow;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 16pt;
+    margin: 0px;
+    float: clear;
+
+}
+
+.aboutToby {
+    display: inline-block;
+}
